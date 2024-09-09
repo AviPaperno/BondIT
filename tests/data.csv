@@ -1,0 +1,6 @@
+flight ID,Arrival,Departure,success
+A1,08:00,11:00,success
+B2,09:00,12:00,fail
+C3,10:00,13:00,success
+D4,10:00,11:00,fail
+C1514,11:53,16:00,success
